@@ -1,0 +1,14 @@
+*   fa542a0 (HEAD -> master) Conflitto risolto
+|\  
+| * 4a57bb9 (home) Inserito colore di sfondo blu veramente
+| * bca2d0c Inserita per la pagina Home
+| *   1035ccb Fusione ramo Contatti
+| |\  
+| | * 968bf12 (Contatti) Inserito file css per i widget
+| | * dc1ab59 Creata la pagina Contatti
+| * | f9fd90b Creata Pagina Home
+| |/  
+* | 86e167e Inserito colore di sfondo rosso
+* | a2f77dc Inserita immagine
+|/  
+* 54caed5 Prima Commit

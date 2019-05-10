@@ -1,0 +1,102 @@
+commit fa542a0020c5bea941bf3df61b0cf3c71602854b
+Merge: 86e167e 4a57bb9
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:36:00 2019 +0200
+
+    Conflitto risolto
+
+commit 4a57bb931757fb77243a9ce7aca8d7aa96a76235
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:33:43 2019 +0200
+
+    Inserito colore di sfondo blu veramente
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..1f24473 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:blue;}
+
+commit 86e167e16975302c0f3bd9a9353c1725e88932da
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:30:11 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..f634001 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:red;}
+\ No newline at end of file
+
+commit bca2d0c325376604a9da6e9772b48dcadb1eb2c4
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:27:06 2019 +0200
+
+    Inserita per la pagina Home
+
+diff --git a/img/foto2.jpg b/img/foto2.jpg
+new file mode 100644
+index 0000000..710c952
+Binary files /dev/null and b/img/foto2.jpg differ
+
+commit 1035ccb15500329bbde8e38224979045e8ebb10f
+Merge: f9fd90b 968bf12
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:22:46 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 968bf129265acf98b3df96865a6c22f46349a5c7
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:21:20 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit dc1ab59cee3f8cbf8ca33a9d4abb668986543c8e
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:20:05 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit a2f77dc06f076c114da9916fda677ae3131b5ba1
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:18:17 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/foto.jpg b/img/foto.jpg
+new file mode 100644
+index 0000000..6240a44
+Binary files /dev/null and b/img/foto.jpg differ
+
+commit f9fd90bdb92628d09ed2675d9b3e0a579169a72e
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:16:28 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 54caed5fbbf5f91dbe3cbecf4ece81f3855b9ecc
+Author: Alessandro Gran <studente.gran.alessandro@gmail.com>
+Date:   Fri May 10 11:14:44 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
